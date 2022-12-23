@@ -64,12 +64,12 @@ public class User {
 	}
 
 
-	public Department getDeprtment() {
+	public Department getDepartment() {
 		return department;
 	}
 
 
-	public void setDeprtment(Department department) {
+	public void setDepartment(Department department) {
 		this.department = department;
 	}
 	

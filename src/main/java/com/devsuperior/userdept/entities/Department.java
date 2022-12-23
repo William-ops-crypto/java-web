@@ -10,7 +10,7 @@ import jakarta.persistence.Table;
 @Table(name = "tb_department")
 public class Department {
 	
-	
+	//comentario teste
 	
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)

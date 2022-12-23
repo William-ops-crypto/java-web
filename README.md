@@ -24,11 +24,11 @@ Vamos construir um pequeno sistema (API REST) de usuários e departamentos, com 
 - Buscar um usuário pelo seu id
 - Inserir um novo usuário
 
-![Image](https://raw.githubusercontent.com/William-ops-crypto/java-web-spring/master/img/dominio.png "Modelo conceitual")
+![Image](https://raw.githubusercontent.com/William-ops-crypto/java-web/master/img/dominio.png "Modelo conceitual")
 
 ### Desenvolvimento moderno: relacional -> objeto -> json
 
-![Image](https://raw.githubusercontent.com/William-ops-crypto/java-web-spring/master/img/objetos.png "Modelo conceitual")
+![Image](https://raw.githubusercontent.com/William-ops-crypto/java-web/master/img/objetos.png "Modelo conceitual")
 
 ### Passos da aula
 

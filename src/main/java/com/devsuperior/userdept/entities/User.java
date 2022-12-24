@@ -44,6 +44,8 @@ public class User {
 	public void setId(Long id) {
 		this.id = id;
 	}
+	
+	
 
 
 	public String getName() {
@@ -74,6 +76,8 @@ public class User {
 	public void setDepartment(Department department) {
 		this.department = department;
 	}
+	
+	
 	
 	
 	

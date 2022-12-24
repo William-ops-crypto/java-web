@@ -48,7 +48,7 @@ public class UserController {
 	
 	@PutMapping(value = "/put")
 	public User atualizar(@RequestBody User user){
-		User result = repository.save(user);
+		User result = repository.saveAndFlush(user);
 		return result;
 		
 		

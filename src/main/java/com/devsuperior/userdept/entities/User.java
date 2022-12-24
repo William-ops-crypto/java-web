@@ -32,6 +32,8 @@ public class User {
 	public User() {
 		
 	}
+	
+	
 
 
 	public Long getId() {
@@ -72,6 +74,7 @@ public class User {
 	public void setDepartment(Department department) {
 		this.department = department;
 	}
+	
 	
 	
 
